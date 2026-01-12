@@ -1,86 +1,99 @@
-<h1 align="center">
-  <samp>Hi 👋🏾, I'm Gauthier EHOLOUM <samp> <br>
-  (aka. gausoft)
-</h1>
-    
-    
-<p align="center">
-  <samp>
-    Backend PHP Developer @INFINITUS | Will code for amazing projects and stock options | Ping Pong, Cartoon & Animes lover
-  </samp>
-</p>
+<div align="center">
 
-- 🌱 I’m currently learning **Figma & Data Analysis**
+# Hi, I'm Gauthier EHOLOUM 👋
 
-- 💬 Ask me about **Flutter, PHP, Laravel**
+### Web & Mobile Developer | Freelance Consultant
 
-- 📫 How to reach me **gausoft@proton.me**
+*Passionate about building high-performance digital experiences*
 
-- ⚡ Fun fact **I love Flutter!**
+[![Portfolio](https://img.shields.io/badge/Portfolio-gausoft.dev-orange?style=for-the-badge&logo=astro)](https://gausoft.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gausoft-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gausoft)
+[![Twitter](https://img.shields.io/badge/X-@gausoft-000000?style=for-the-badge&logo=x)](https://twitter.com/gausoft)
+[![Telegram](https://img.shields.io/badge/Telegram-@gausoft-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/gausoft)
 
+</div>
 
-<h4 align="left">Languages and Tools:</h4>
-<p>
-<a href="https://www.php.net" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="48" height="48"/> 
-</a> 
-  
-<a href="https://getbootstrap.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
- 
-<a href="https://tailwindcss.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> 
-</a>
-  
-<a href="https://laravel.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-  
-<a href="https://symfony.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> 
-</a>   
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-  
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
+---
 
-<a href="https://flutter.dev" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://mariadb.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://www.sqlite.org/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-</a> 
+## About Me
 
+- 🌍 Based in **Lomé, Togo**
+- 💼 **6+ years** of development experience
+- 🚀 Specialized in **Flutter** & **Laravel**
+- ✍️ I share knowledge on [my blog](https://gausoft.dev/blog)
 
-<a href="https://postman.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-</a> 
-<a href="https://www.figma.com/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a>   
-</p>
+I turn your ideas into modern web and mobile applications, one line of code at a time.
 
-### Contact me via 👇
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gauthier-eholoum)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/gausoft_)
+## Tech Stack
 
-### 📕 Latest blog posts
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-* [Pourquoi instaurer les revues de code?](https://gausoft.dev/blog/pourquoi-instaurer-les-revues-de-code)
-* [Bienvenue sur mon blog](https://gausoft.herokuapp.com/bienvenue-sur-mon-blog)
-* [Comment intégrer la passerelle de paiement Paygate (Togo) à Laravel?](https://gausoft.medium.com/comment-int%C3%A9grer-la-passerelle-de-paiement-paygate-togo-%C3%A0-laravel-67baee3bdb6b)
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gausoft&show_icons=true&locale=en" alt="emrade" /></p>
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### AI Tools
+![Claude](https://img.shields.io/badge/Claude_Code-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+---
+
+## Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 2025 - Present | Mobile & Backend Consultant | Freelance |
+| Oct 2023 - Feb 2025 | Web & Mobile Developer | Clinicaa |
+| Aug 2021 - Nov 2024 | Backend PHP Developer | ITVOG |
+| Oct 2019 - Sep 2021 | Application Developer | Dashmake |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gausoft&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gausoft&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
+
+</div>
+
+---
+
+## Get in Touch
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/22898615284)
+[![Email](https://img.shields.io/badge/Email-gausoft@proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:gausoft@proton.me)
+
+**Got a project in mind? Let's talk!**
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=gausoft&color=orange&style=flat-square)
+
+</div>
