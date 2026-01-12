@@ -67,18 +67,6 @@ I turn your ideas into modern web and mobile applications, one line of code at a
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gausoft&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gausoft&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f97316)
-
-</div>
-
----
-
 ## Get in Touch
 
 <div align="center">
