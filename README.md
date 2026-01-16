@@ -28,29 +28,20 @@ I turn your ideas into modern web and mobile applications, one line of code at a
 
 ## Tech Stack
 
-### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-
-### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### AI Tools
 ![Claude](https://img.shields.io/badge/Claude_Code-D4A27F?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
@@ -60,10 +51,10 @@ I turn your ideas into modern web and mobile applications, one line of code at a
 
 | Period | Role | Company |
 |--------|------|---------|
-| 2025 - Present | Mobile & Backend Consultant | Freelance |
-| Oct 2023 - Feb 2025 | Web & Mobile Developer | Clinicaa |
-| Aug 2021 - Nov 2024 | Backend PHP Developer | ITVOG |
-| Oct 2019 - Sep 2021 | Application Developer | Dashmake |
+| 2025 - Present | Mobile & Backend Consultant | [Solimi](https://www.linkedin.com/company/solimitogo) |
+| Oct 2023 - Feb 2025 | Web & Mobile Developer | [Clinicaa](https://www.linkedin.com/company/clinicaaerp) |
+| Aug 2021 - Nov 2024 | Backend PHP Developer | [ITVOG](https://www.linkedin.com/company/itvog) |
+| Oct 2019 - Sep 2021 | Application Developer | [Dashmake](https://www.linkedin.com/in/dashmake-startup-453153106) |
 
 ---
 
